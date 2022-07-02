@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotek_site=self.webpackChunknotek_site||[]).push([[700],{5688:function(e){e.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);
