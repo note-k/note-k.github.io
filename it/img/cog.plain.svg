@@ -12,19 +12,14 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs15908">
-    <linearGradient
-       id="SvgjsLinearGradient4208">
-      <stop
-         id="SvgjsStop4209"
-         stop-color="#00ff8f"
-         offset="0" />
-      <stop
-         id="SvgjsStop4210"
-         stop-color="#00a1ff"
-         offset="1" />
+    <linearGradient id="linear-gradient" x1="35.41" y1="238.2" x2="196.74" y2="24.2" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8dff97"/>
+      <stop offset=".19" stop-color="#19cfa3"/>
+      <stop offset=".66" stop-color="#378eff"/>
+      <stop offset="1" stop-color="#2663ff"/>
     </linearGradient>
     <linearGradient
-       xlink:href="#SvgjsLinearGradient4208"
+       xlink:href="#linear-gradient"
        id="linearGradient17094"
        x1="153.58008"
        y1="841.05566"
