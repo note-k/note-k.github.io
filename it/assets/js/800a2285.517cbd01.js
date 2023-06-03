@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknotek_site=self.webpackChunknotek_site||[]).push([[941],{8412:e=>{e.exports=JSON.parse('{"permalink":"/it/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
